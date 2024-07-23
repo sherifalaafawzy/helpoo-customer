@@ -1,0 +1,43 @@
+class PageRouteName{
+    static const String splashScreen = '/splashScreen';
+    static const String mainScreen = '/mainScreen';
+    static const String profileScreenNotActiveUser = '/profileScreen';
+    static const String onBoardingScreen = '/onBoardingScreen';
+    static const String chooseLanguageScreen = '/chooseLanguageScreen';
+    static const String welcomeScreen = '/welcomeScreen';
+    static const String loginScreen = '/loginScreen';
+    static const String enterPhoneNumScreen = '/enterPhoneNumScreen';
+    static const String oTPScreen = '/oTPScreen';
+    static const String registerFillDataScreen = '/registerFillDataScreen';
+    static const String resetPasswordScreen = '/resetPasswordScreen';
+    static const String homeScreen = '/homeScreen';
+    static const String authPackagesScreen = '/authPackagesScreen';
+    //static const String bottomNavBarScreen = '/bottomNavBarScreen';
+    static const String roadServicePage = '/roadServicePage';
+    static const String myCarsScreen = '/myCarsScreen';
+    static const String addCarScreen = '/addCarScreen';
+    static const String addCarOrSelectCarPackage = '/addCarOrSelectCarPackage';
+    static const String fnolConfirmaionPage = '/fnolConfirmaionPage';
+    static const String photographyInstructionsPage = '/photographyInstructionsPage';
+    static const String accidentDescription = '/accidentDescription';
+    static const String uploadFNOLFilesPage = '/uploadFNOLFilesPage';
+    static const String fNOLStepsPage = '/fNOLStepsPage';
+    static const String requestFnolBillPage = '/requestFnolBillPage';
+    static const String fnolSummaryPage = '/fnolSummaryPage';
+    static const String serviceRequestMapsScreen = '/serviceRequestMapsScreen';
+    static const String fNOLMapPage = '/fNOLMapPage';
+    static const String fNOLStepsPhotographyInstructions = '/fNOLStepsPhotographyInstructions';
+    static const String packageActivationPage = '/packageActivationPage';
+    static const String homePackagesScreen = '/homePackagesScreen';
+    static const String fnolCommentPage = '/fnolCommentPage';
+    static const String additionalAskShoot = '/additionalAskShoot';
+    static const String chooseInsuranceCompany = '/chooseInsuranceCompany';
+
+    static const String shooting = '/shooting';
+    static const String chooseAccidentType = '/chooseAccidentType';
+    static const String fNOLStepAskShoot = '/fNOLStepAskShoot';
+    static const String fNOLPreviewImage = '/FnolPreviewImage';
+    static const String packageDetails = '/packageDetails';
+    static const String selectCarScreen = '/selectCarScreen';
+    static const String selectCarForAddItToPackage = '/selectCarForAddItToPackage';
+}

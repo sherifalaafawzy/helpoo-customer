@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8691102844",
+    "project_id": "valiant-carrier-337111",
+    "storage_bucket": "valiant-carrier-337111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8691102844:android:25dcfe17da736509c045f9",
+        "android_client_info": {
+          "package_name": "com.helpoo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjhHH8sk2saaFkDqtKEZJ7j3G-ylnP_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8691102844:android:b95762af3675c0d1c045f9",
+        "android_client_info": {
+          "package_name": "com.helpoo.inspectionsmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjhHH8sk2saaFkDqtKEZJ7j3G-ylnP_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
